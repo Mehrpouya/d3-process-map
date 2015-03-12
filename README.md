@@ -2,20 +2,14 @@
 
 More soon...
 
-Using a project This is a PHP web application that displays a directed acyclic graph in a
+This is a fork of a PHP web application that displays a directed acyclic graph in a
 modern web browser using [d3.js](http://d3js.org/).  It is designed for
 illustrating the relationships between objects in a process.
 
 #### Data manipulation and reporting process:
 
 
-[![Default dataset](http://nylen.tv/d3-process-map/img/thumb-default.png)](http://nylen.tv/d3-process-map/)
-http://nylen.tv/d3-process-map/
-
-#### Co-occurrences of Les Miserables characters:
-
-[![Les Mis dataset](http://nylen.tv/d3-process-map/img/thumb-les-mis.png)](http://nylen.tv/d3-process-map/?dataset=les-mis)
-http://nylen.tv/d3-process-map/?dataset=les-mis
+![Default dataset](https://github.com/Mehrpouya/one-hour-process-map/blob/master/img/example.png)
 
 ### Features
 
