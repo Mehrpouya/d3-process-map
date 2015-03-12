@@ -1,0 +1,7 @@
+One paper used to make {{Coffee}}
+
+![Alt text](data/img//coffee-filter1-thumb.jpg)
+![Alt text](data/img//coffee-filter2-thumb.jpg)
+![Alt text](data/img//coffee-filter3-thumb.jpg)
+![Alt text](data/img//coffee-filter4-thumb.jpg)
+

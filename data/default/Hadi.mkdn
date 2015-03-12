@@ -1,0 +1,16 @@
+Study done for one hour on 2015-13-03 
+
+from 13:57 to 14:57
+
+## Data Collected:
+
+* Screenshots of Laptop Screens every 15 seconds
+* CPU and computer temprature every 15 seconds
+* Picture of the room and working every 15 seconds
+* Notes & Observation by Chris Barker
+* Screenshot of [Live National grid visualisation](http://nationalgrid.stephenmorley.org/)
+
+![Alt text](data/img/1-thumb.jpg)
+![Alt text](data/img/2-thumb.jpg)
+![Alt text](data/img/5-thumb.jpg)
+

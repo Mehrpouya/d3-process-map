@@ -1,0 +1,7 @@
+50 Grams
+
+![Alt text](data/img//coffee1-thumb.jpg)
+![Alt text](data/img//coffee2-thumb.jpg)
+![Alt text](data/img//coffee3-thumb.jpg)
+![Alt text](data/img//coffee4-thumb.jpg)
+
