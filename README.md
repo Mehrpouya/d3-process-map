@@ -1,10 +1,10 @@
-# d3 process map
+# One hour stud of work data
 
-This is a PHP web application that displays a directed acyclic graph in a
+More soon...
+
+Using a project This is a PHP web application that displays a directed acyclic graph in a
 modern web browser using [d3.js](http://d3js.org/).  It is designed for
 illustrating the relationships between objects in a process.
-
-### Examples
 
 #### Data manipulation and reporting process:
 
