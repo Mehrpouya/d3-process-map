@@ -2,7 +2,22 @@
     {
         "type": ["Depletable"],
         "name": "Hadi","depends": [
-             "Drink","Eat","Work","Relationship","Wash","Toilet","Cloths"
+             "Drink","Eat","Work","Relationship","Wash","Toilet","Clothes","Cosmetics"
+        ]
+    },{
+        "type": ["Depletable"],
+        "name": "Cosmetics","depends": [
+            "Deodorant","Soap"
+        ]
+    },{
+        "type": ["Depletable"],
+        "name": "Deodorant","depends": [
+             "Market infrastructure"
+        ]
+    },{
+        "type": ["Depletable"],
+        "name": "Soap","depends": [
+             "Market infrastructure"
         ]
     },{
         "type": ["Action"],
@@ -28,14 +43,14 @@
         "type": ["Action"],
         "name": "Coffee",
         "depends": [
-             "Boiling water", "Java beans","Coffee Filter Paper"
+             "Boiling water", "Java beans","Coffee Filter Paper","Wash"
         ]
     }
     , {
         "type": ["Depletable"],
         "name": "Coffee Filter Paper",
         "depends": [
-            "Infrastructure"
+            "Market infrastructure"
         ]
     },
     {
@@ -49,7 +64,7 @@
         "type": ["Consumable"],
         "name": "Water",
         "depends": [
-            "Infrastructure"
+            "Water infrastructure"
         ]
     },
     {
@@ -63,33 +78,52 @@
         "type": ["Consumable"],
         "name": "Electricity",
         "depends": [
-            "Infrastructure"
+            "Energy infrastructure"
         ]
     },
     {
         "type": ["Experience"],
-        "name": "Infrastructure"
+        "name": "Mobile infrastructure",
+        "depends": [
+            "Electricity"
+        ]
+    },{
+        "type": ["Experience"],
+        "name": "Water infrastructure"
     }
-    ,
+    ,{
+        "type": ["Experience"],
+        "name": "Energy infrastructure"
+    },
+    {
+        "type": ["Experience"],
+        "name": "Internet infrastructure"
+    },{
+        "type": ["Experience"],
+        "name": "Internet infrastructure"
+    },{
+        "type": ["Experience"],
+        "name": "Market infrastructure"
+    },
     {
         "type": ["Depletable"],
         "name": "Java beans",
         "depends": [
-            "Infrastructure"
+            "Market infrastructure"
         ]
     },
     {
         "type": "Experience",
         "name": "Crockery",
         "depends": [
-            "Infrastructure"
+            "Market infrastructure"
         ]
     }
     ,{
         "type": "Consumable",
         "name": "Paper towel",
         "depends": [
-            "Infrastructure"
+            "Market infrastructure"
         ]
     }
     ,
@@ -111,7 +145,7 @@
         "type": "Experience",
         "name": "Laptop",
         "depends": [
-            "Electricity"
+            "Electricity","Internet"
         ]
     },
     {
@@ -165,25 +199,25 @@
         "type": "Consumable",
         "name": "Internet",
         "depends": [
-            "Electricity","Infrastructure"
+            "Electricity","Internet infrastructure"
         ]
     },{
         "type": "Consumable",
         "name": "Email",
         "depends": [
-            "Electricity","Infrastructure","Internet"
+            "Electricity","Internet"
         ]
     },{
         "type": "Experience",
         "name": "Mobile phone",
         "depends": [
-            "Electricity","Infrastructure"
+            "Electricity","Mobile infrastructure"
         ]
     } ,{
         "type": "Experience",
         "name": "Washing up liquid",
         "depends": [
-            "Infrastructure"
+            "Market infrastructure"
         ]
     }
      ,{
@@ -194,8 +228,8 @@
         ]
     },{
         "type": ["Depletable"],
-        "name": "Cloths",
-        "depends": [
+        "name": "Clothes",
+        "depends": ["Wash"
         ]
     },{
         "type": ["Depletable"],

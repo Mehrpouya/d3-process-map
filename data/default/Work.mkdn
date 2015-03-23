@@ -7,3 +7,13 @@ Used:
 * one {{Graphic tablet}}
 * {{Office}}
 * Talked to Fabrizio and Chris, so their resources were also being used while speaking to me.
+
+
+See pictures for electronic details:
+
+![Alt text](data/img/monitor2-thumb.jpg "Monitor two")
+![Alt text](data/img/monitor1-thumb.jpg "Monitor one")
+![Alt text](data/img/laptop-thumb.jpg "Laptop")
+![Alt text](data/img/external-mouse-thumb.jpg "External mouse")
+![Alt text](data/img/external-keyboard-thumb.jpg "External keyboard")
+![Alt text](data/img/graphic-tablet-thumb.jpg "External graphic tablet")

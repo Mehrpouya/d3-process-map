@@ -1,2 +1,5 @@
 * Boiled 7.5 cups of {{Water}}
 * Washed up using hot water provided by {{Water boiler}}
+
+![Alt text](data/img/kettle-thumb.jpg)
+

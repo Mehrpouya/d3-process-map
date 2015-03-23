@@ -1,0 +1,3 @@
+See picture:
+
+![Alt text](data/img/water-boiler-thumb.jpg)
